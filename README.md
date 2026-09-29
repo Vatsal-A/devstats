@@ -4,7 +4,7 @@
 
 A terminal-aesthetic GitHub analytics dashboard. Search any public GitHub username and instantly see a contribution heatmap, language breakdown, repo sparklines, and star counts — all routed through a hardened Next.js backend so API tokens never reach the browser.
 
-**[→ Live Demo](https://devstats-vatsal.vercel.app)**  &nbsp;·&nbsp;  **[→ Source Code](https://github.com/Vatsal-A/devstats.git)**
+**[→ Live Demo](https://devstats-six.vercel.app/)**  &nbsp;·&nbsp;  **[→ Source Code](https://github.com/Vatsal-A/devstats.git)**
 
 ---
 
@@ -12,7 +12,9 @@ A terminal-aesthetic GitHub analytics dashboard. Search any public GitHub userna
 
 > Search any GitHub username to see the full dashboard
 
-![DevStats Dashboard](https://devstats-vatsal.vercel.app/api/og)
+![DevStats Dashboard](https://github.com/user-attachments/assets/301429d8-0163-47e3-aae0-933087c11aea)
+
+![DevStats Contribution Heatmap](https://github.com/user-attachments/assets/3c7063a9-6653-4527-a0c8-a80a421e82f4)
 
 ---
 
